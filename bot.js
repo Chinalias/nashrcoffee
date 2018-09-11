@@ -8,7 +8,7 @@ console.log("Welcome Again !");
   return channel.send(`
 **السلام عليكم
 سيرفرنا جميل وينقصنا جمالك
-[ __ https://discord.gg/7xW6JvB __]
+[ __ https://discord.gg/qw8dP3V __]
 حياك ي عيني ...**
 `)
 }).catch(console.error)
